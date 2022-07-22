@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Analytics, eCommerce and Tech in general
 - 🌱 I’m currently learning in a Data Bootcamp
 - 💞️ I’m looking to collaborate on meaninful projects
-- You can reach me vía e-mail: manuel.andrei.lopez@gmail.com
+- ✨ You can reach me vía e-mail: manuel.andrei.lopez@gmail.com
 
 <!---
 andreimlg/andreimlg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
